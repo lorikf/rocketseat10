@@ -1,0 +1,8 @@
+{
+  "name": "rocketseat10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lorikf/rocketseat10.git",
+  "author": "Lorenzo Fiore <lorifiore97@gmail.com>",
+  "license": "MIT"
+}
